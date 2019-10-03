@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_list"
+        android:title="List Mode"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_grid"
+        android:title="Grid Mode"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_cardview"
+        android:title="CardView Mode"
+        app:showAsAction="never" />
+
+</menu>
